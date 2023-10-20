@@ -1,9 +1,3 @@
-### Machine learning
-
-"REFORMS: Reporting Standards for ML-based Science", https://reforms.cs.princeton.edu/
-
-Minimum data requirements for ML projects
-
 ### Knowledge modeling
 
 **Matthew Spotnitz, Nripendra Acharya, James J Cimino, Shawn Murphy, Bahram Namjou, Nancy Crimmins, Theresa Walunas, Cong Liu, David Crosslin, Barbara Benoit, Elisabeth Rosenthal, Jennifer A Pacheco, Anna Ostropolets, Harry Reyes Nieva, Jason S Patterson, Lauren R Richter, Tiffany J Callahan, Ahmed Elhussein, Chao Pang, Krzysztof Kiryluk, Jordan Nestor, Atlas Khan, Sumit Mohan, Evan Minty, Wendy Chung, Wei-Qi Wei, Karthik Natarajan, Chunhua Weng, A metadata framework for computational phenotypes, JAMIA Open, Volume 6, Issue 2, July 2023, ooad032, https://doi.org/10.1093/jamiaopen/ooad032**
@@ -38,6 +32,10 @@ Importance of institutional support, community, best dev practices
 
 ### Standardization meta
 
-** de Visser C, Johansson LF, Kulkarni P, Mei H, Neerincx P, et al. (2023) Ten quick tips for building FAIR workflows. PLOS Computational Biology 19(9): e1011369. https://doi.org/10.1371/journal.pcbi.1011369 **
+**de Visser C, Johansson LF, Kulkarni P, Mei H, Neerincx P, et al. (2023) Ten quick tips for building FAIR workflows. PLOS Computational Biology 19(9): e1011369. https://doi.org/10.1371/journal.pcbi.1011369**
 
 Register and describe the workflow in a rich manner. 
+
+**"REFORMS: Reporting Standards for ML-based Science", https://reforms.cs.princeton.edu/**
+
+Minimum method reporting requirements for ML projects
