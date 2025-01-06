@@ -1,3 +1,9 @@
+### Citations/retractions
+
+**Citation Contamination of Systematic Review Literature in the Life Sciences by Paper Mills. Gengyan Tang, Hao Cai. medRxiv 2024.12.26.24319521; doi: https://doi.org/10.1101/2024.12.26.24319521**
+
+* Oncology most affected field
+
 ### Biomedical databases
 
 **Kim M Rutherford, Manuel Lera-Ramírez, Valerie Wood, PomBase: a Global Core Biodata Resource—growth, collaboration, and sustainability, Genetics, 2024;, iyae007, https://doi.org/10.1093/genetics/iyae007**
